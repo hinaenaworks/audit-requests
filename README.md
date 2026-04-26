@@ -5,7 +5,7 @@ Logic Audit Center (論理監査センター)
 ​冷徹な指摘: 感情的なフォローはしません。発見された脆弱性を事実として指摘します。
 ​目的: AI導入や自動化における「ハルシネーション（幻覚）」と「システム破綻」を未然に防ぐこと。
 ​依頼方法
-[https://github.com/hinaenaworks/audit-requests]
+[https://github.com/hinaenaworks/audit-requests/issues]
 ​上記 Issues タブをクリック。
 ​New issue を選択。
 ​🔍 監査依頼 (Audit Request) テンプレートを選択し、内容を記入して送信してください。
