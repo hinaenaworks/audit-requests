@@ -12,7 +12,7 @@
 
 [https://github.com/hinaenaworks/audit-requests/issues](https://github.com/hinaenaworks/audit-requests/issues)
 
-1. 上記 **Issues** タブをクリックしてください。
+1. 上記 **Issues** リンクをクリックしてください。
 2. **New issue** を選択してください。
 3. **🔍 監査依頼 (Audit Request)** テンプレートを選択し、内容を記入して送信してください。
 
